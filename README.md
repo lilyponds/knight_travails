@@ -1,13 +1,13 @@
 # knight_travails
-Knight Travails for TOP
+Knight Travails for TOP.
 The goal is to find the shortest path a Knight can take from one grid position to another on a Chess board. 
-THe user will put in the starting and ending coordinates and the output will be all the intermediate postions and the number of moves taken to get there. 
+The user will put in the starting and ending coordinates and the output will be all the intermediate postions and the number of moves taken to get there. 
 
 ![alt text](image.png)
 
 -------------------
 
-I was able to solve this problem becaus eof Khan academy, this explanation and grid to basically give a step size and maintain a queue for a BFS algorithm helped a lot to get to the new approach. https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding
+I was able to solve this problem because ef Khan academy, this explanation and grid to basically give a step size and maintain a queue for a BFS algorithm helped a lot to get to the new approach. https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/route-finding
 ![alt text](image-1.png)
 
 New Approach 
